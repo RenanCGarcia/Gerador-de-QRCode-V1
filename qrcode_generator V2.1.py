@@ -14,7 +14,6 @@ def gerarQR():
     QRimg = Image.open('Gerador de QRCODE v2/qrcode.png')
     QRimg.show()
 
-
 customtkinter.set_appearance_mode("Dark")
 
 janela = customtkinter.CTk()
